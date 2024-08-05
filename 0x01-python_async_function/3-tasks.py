@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Module that create asyncio tasks that
-wait_random coroutine.
-"""
+wait_random coroutine"""
 
 import asyncio
 from typing import Callable
