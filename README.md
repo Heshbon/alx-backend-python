@@ -7,3 +7,5 @@ This repository contains projects developed for the ALX Africa backend Python tr
   + <u>[0x01-python_async_function](https://github.com/Heshbon/alx-backend-python/tree/master/0x01-python_async_function)</u>.
 
   + <u>[0x02-python_async_comprehension](https://github.com/Heshbon/alx-backend-python/tree/master/0x02-python_async_comprehension)</u>.
+
+  + <u>[0x03-Unittests_and_integration_tests](https://github.com/Heshbon/alx-backend-python/tree/master/0x03-Unittests_and_integration_tests)</u>.
